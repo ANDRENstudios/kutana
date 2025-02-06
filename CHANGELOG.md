@@ -200,6 +200,5 @@
   - ^ Added `Plugin.on_message` decorator.
   - Startup now accepts application.
   - Now kutana objects are referred as `app`.
-  - Renamed Kutana's "process_update" to "process".
-  - Processing is now done inside on Environment.
+  - Renamed Kutana's "process_update" to "process".  - Processing is now done inside on Environment.
   - Callbacks storing changed.
